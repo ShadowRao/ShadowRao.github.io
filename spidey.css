@@ -1652,7 +1652,7 @@
     transform: none;
   }
   .container-1eFtFS::after {
-    content: "Nah! Imma do my own thing";
+    content: "! Imma do my own thing";
     position: fixed;
     top: 220px;
     bottom: 85px;
