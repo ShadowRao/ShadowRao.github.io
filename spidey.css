@@ -3273,7 +3273,7 @@
 	height: unset;
 	border-radius: 5px;
 	pointer-events: none;
-/* 	z-index: -1; */
+	z-index: 0;
 }
 .container-1jQZ2U::before {
 	background: var(--popout) var(--popoutposition)/var(--popoutsize);
